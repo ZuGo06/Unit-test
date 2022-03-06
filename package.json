@@ -1,0 +1,14 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "module testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
